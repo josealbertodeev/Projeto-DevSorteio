@@ -50,6 +50,7 @@ input {
     margin-bottom: 79px;
     border: none;
     outline: none;
+    color: #FFF;
 }
 
 button {
@@ -57,19 +58,21 @@ button {
     height: 72px;
     padding: 0 76px;
     border-radius: 10px;
-    background: #AEC346;
-    box-shadow: 0 18px 40px 0 rgba(174, 195, 70, 0.35);
+    background: #8710cd;
+    box-shadow: 0 18px 40px 0 rgba(192, 196, 173, 0.35);
     color: #FFF;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
     cursor: pointer;
+    transition: all 0.3s ease;
 }
 
 button:hover {
-    background: #A0B33C;
+    background: #3b035a;
 }
 
 button:active {
-    background: #8F9F34;
+    background: #7e23b3;
+    box-shadow: 0 10px 20px 0 rgba(192, 196, 173, 0.35);
 }
