@@ -37,7 +37,7 @@ A interface consiste em:
 
 - GitHub: [@josealbertodeev](https://github.com/josealbertodeev)
 - LinkedIn: [José Alberto B Farias
-](https://www.linkedin.com/in/josé-alberto-b-farias/)
+](https://www.linkedin.com/in/joséalberto)
 
 ## Acesse o site por aqui 👉 [Link](https://projeto-dev-sorteio-ni9w.vercel.app)
 
